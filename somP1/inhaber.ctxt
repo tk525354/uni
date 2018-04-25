@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=inhaber
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ inhaber.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=inhaber()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ inhaber\r\n
+comment2.params=nVorname\ nNachname\ nAdresse
+comment2.target=void\ setInhaber(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Ein\ Beispiel\ einer\ Methode\ -\ ersetzen\ Sie\ diesen\ Kommentar\ mit\ Ihrem\ eigenen\r\n\ \r\n\ @param\ \ y\ \ \ \ ein\ Beispielparameter\ f\u00FCr\ eine\ Methode\r\n\ @return\ \ \ \ \ \ \ \ die\ Summe\ aus\ x\ und\ y\r\n
+comment3.params=
+comment3.target=java.lang.String\ getInhaber()
+numComments=4

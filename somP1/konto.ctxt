@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=konto
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ konto.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=neueNummer
+comment1.target=konto(int)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ konto\r\n
+comment2.params=Kunde\ nummer
+comment2.target=konto(java.lang.String,\ int)
+comment3.params=Vorname\ Nachname\ Adresse
+comment3.target=void\ setKunde(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ Ein\ Beispiel\ einer\ Methode\ -\ ersetzen\ Sie\ diesen\ Kommentar\ mit\ Ihrem\ eigenen\r\n\ \r\n\ @param\ \ y\ \ \ \ ein\ Beispielparameter\ f\u00FCr\ eine\ Methode\r\n\ @return\ \ \ \ \ \ \ \ die\ Summe\ aus\ x\ und\ y\r\n
+comment4.params=
+comment4.target=java.lang.String\ getInhaber()
+comment5.params=
+comment5.target=int\ getKontostand()
+comment6.params=Betrag
+comment6.target=void\ einzahlen(int)
+comment7.params=Betrag
+comment7.target=void\ abheben(int)
+comment8.params=empf\u00E4nger\ Betrag
+comment8.target=void\ \u00FCberweisen(konto,\ int)
+numComments=9
